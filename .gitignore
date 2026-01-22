@@ -1,5 +1,12 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
+
+# Virtual environment
+.venv/
+
+# Build output (future packaging)
+
 dist/
 build/
+*.spec

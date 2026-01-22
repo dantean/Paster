@@ -1,0 +1,5 @@
+settings
+max_buffer: 20
+trigger_key: "space"
+method: "clipboard"
+restore_clipboard: true
