@@ -4,4 +4,6 @@ This is a simple Python application that aims to replicate the behavior of an ol
 
 This is intended to work in any text field: Notepad, a chat application such as Discord, a URL bar, an email field, etc. 
 
+REQUIRES Pythin 3.10+
+
 Version 0.0
